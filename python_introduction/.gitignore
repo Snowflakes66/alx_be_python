@@ -1,1 +1,27 @@
 *
+Ignore system files
+/AppData/
+/Application Data/
+/Cookies/
+/Local Settings/
+/My Documents/
+/NetHood/
+/PrintHood/
+/Recent/
+/SendTo/
+/Start Menu/
+/Templates/
+Ignore other unwanted files
+/.bash_history
+/.gitconfig
+/.python_history
+/.viminfo
+/.vscode/
+/ntuser.dat.LOG1
+/ntuser.dat.LOG2
+/ntuser.ini
+
+Ignore everything outside the python_introduction directory
+/*
+!/python_introduction/
+
