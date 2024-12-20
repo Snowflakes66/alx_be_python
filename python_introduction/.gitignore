@@ -1,5 +1,4 @@
-*
-Ignore system files
+# Ignore system files
 /AppData/
 /Application Data/
 /Cookies/
@@ -11,7 +10,8 @@ Ignore system files
 /SendTo/
 /Start Menu/
 /Templates/
-Ignore other unwanted files
+
+# Ignore other unwanted files
 /.bash_history
 /.gitconfig
 /.python_history
@@ -21,7 +21,7 @@ Ignore other unwanted files
 /ntuser.dat.LOG2
 /ntuser.ini
 
-Ignore everything outside the python_introduction directory
+# Ignore everything outside the python_introduction directory
 /*
 !/python_introduction/
 
