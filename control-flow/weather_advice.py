@@ -1,4 +1,4 @@
-# (link unavailable)
+# weather_advice.py
 
 def get_weather_input():
     """Prompt user for weather input"""
