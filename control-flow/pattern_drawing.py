@@ -1,5 +1,4 @@
-
-# (link unavailable)
+# pattern_drawing.py
 
 def get_pattern_size():
     """Prompt user for pattern size"""
