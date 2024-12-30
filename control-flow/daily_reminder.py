@@ -1,4 +1,4 @@
-# (link unavailable)
+# daily_reminder.py
 
 def get_task_info():
     """Prompt user for task information"""
