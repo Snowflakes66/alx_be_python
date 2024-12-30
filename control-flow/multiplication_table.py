@@ -1,6 +1,4 @@
-
-
-# (link unavailable)
+# multiplication_table.py
 
 def get_user_input():
     """Prompt user for a number"""
